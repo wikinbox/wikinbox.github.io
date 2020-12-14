@@ -2,25 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wikinbox.github.io</id>
     <title>萌娃知世</title>
-    <updated>2019-11-18T09:49:34.189Z</updated>
+    <updated>2020-12-14T09:09:30.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wikinbox.github.io"/>
     <link rel="self" href="https://wikinbox.github.io/atom.xml"/>
     <subtitle>这是一个测试的地址。</subtitle>
     <logo>https://wikinbox.github.io/images/avatar.png</logo>
     <icon>https://wikinbox.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, 萌娃知世</rights>
+    <rights>All rights reserved 2020, 萌娃知世</rights>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
-        <id>https://wikinbox.github.io/post/ce-shi</id>
-        <link href="https://wikinbox.github.io/post/ce-shi">
+        <id>https://wikinbox.github.io/post/ce-shi/</id>
+        <link href="https://wikinbox.github.io/post/ce-shi/">
         </link>
         <updated>2019-06-28T05:44:45.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://wikinbox.github.io/post/hello-gridea</id>
-        <link href="https://wikinbox.github.io/post/hello-gridea">
+        <id>https://wikinbox.github.io/post/hello-gridea/</id>
+        <link href="https://wikinbox.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
