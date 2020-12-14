@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://wikinbox.github.io</id>
+    <id>https://wikibox.github.io</id>
     <title>萌娃知世</title>
-    <updated>2020-12-14T09:24:36.015Z</updated>
+    <updated>2020-12-14T09:34:34.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://wikinbox.github.io"/>
-    <link rel="self" href="https://wikinbox.github.io/atom.xml"/>
+    <link rel="alternate" href="https://wikibox.github.io"/>
+    <link rel="self" href="https://wikibox.github.io/atom.xml"/>
     <subtitle>这是一个测试的地址。</subtitle>
-    <logo>https://wikinbox.github.io/images/avatar.png</logo>
-    <icon>https://wikinbox.github.io/favicon.ico</icon>
+    <logo>https://wikibox.github.io/images/avatar.png</logo>
+    <icon>https://wikibox.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 萌娃知世</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://wikinbox.github.io/post/hello-gridea/</id>
-        <link href="https://wikinbox.github.io/post/hello-gridea/">
+        <id>https://wikibox.github.io/post/hello-gridea/</id>
+        <link href="https://wikibox.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
